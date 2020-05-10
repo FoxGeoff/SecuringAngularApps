@@ -1,7 +1,10 @@
 
 # Project: Securing Angular Apps with OpenID Connect and OAuth 2
 
-* <https://github.com/FoxGeoff/SecuringAngularApps>
+* Server STS: C:\Users\foxge\Github\openid-oauth2-06\SecuringAngularApps.API
+* Server STS: <https://github.com/FoxGeoff/SecuringAngularApps>
+* Client: C:\Users\foxge\Github\openid-oauth2-06\securing-angular-client
+* Client: <>
 
 ## Securing Angular Apps with OpenID Connect and OAuth 2 - New Release!
 
