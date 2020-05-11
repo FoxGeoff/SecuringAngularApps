@@ -20,6 +20,6 @@ That changed end of last year when they put out updated guidance recommending Au
 Database for API: Database=securingangularappscourseapi
 Database for STS: Database=securingangularappscoursests
 
-## Task: Update .Net and all packages
+## Task: Update .Net and all packages to asp.net 3.1
 
 * <https://stackoverflow.com/questions/36023982/nuget-re-targeting-after-upgrading-from-net-framework-4-5-to-4-6-1#40681448>
